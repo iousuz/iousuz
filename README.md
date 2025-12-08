@@ -1,4 +1,4 @@
-$\textcolor{41acaa}{HIDING IN UR WIFI}$
+$\color{41acaa}{HIDING IN UR WIFI}$
 
 
 <!--
