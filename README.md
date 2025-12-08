@@ -1,5 +1,6 @@
 $\color{pink}{HIDING}$ $\color{pink}{IN}$ $\color{pink}{UR}$ $\color{pink}{WIFI}$
-<img width="735" height="439" alt="image" src="https://github.com/user-attachments/assets/ee577b9e-5bea-4dd1-bfad-f66da01f10f9" />
+<img width="540" height="229" alt="image" src="https://github.com/user-attachments/assets/3eeb44ce-4145-432a-aeab-11fcd363912a" />
+
 
 
 
