@@ -1,4 +1,4 @@
-`FANDOM: BLINK`
+`FANDOM: BLINKS`
 
 $\color{pink}{HIDING}$ $\color{pink}{IN}$ $\color{pink}{YOUR}$ $\color{pink}{WIFI}$
 
