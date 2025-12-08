@@ -1,5 +1,5 @@
 HIDING IN UR WIFI 
-https://files.catbox.moe/h1zmtt.gif
+
 
 <!--
 **iousuz/iousuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
