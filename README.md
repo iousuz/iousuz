@@ -4,7 +4,7 @@ $\color{pink}{HIDING}$ $\color{pink}{IN}$ $\color{pink}{YOUR}$ $\color{pink}{WIF
 
 <img width="382" height="278" alt="image" src="https://github.com/user-attachments/assets/51ba2052-33f3-4299-b4e2-c884f1d999e1" />
 
-$my$ $fav:$ 라리사 마노발
+$My$ $favourite:$ `라리사 마노발`
 
 
 
