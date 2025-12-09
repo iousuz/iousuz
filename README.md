@@ -1,10 +1,12 @@
 `FANDOM: BLINKS`
 
-$\color{pink}{HIDING}$ $\color{pink}{IN}$ $\color{pink}{YOUR}$ $\color{pink}{WIFI}$
+
+
+$\color{pink}{HIDING}$ $\color{pink}{IN}$ $\color{pink}{YOUR}$ $\color{lightpink}{WIFI}$
 
 <img width="382" height="278" alt="image" src="https://github.com/user-attachments/assets/51ba2052-33f3-4299-b4e2-c884f1d999e1" />
 
-$My$ $favourite:$ `라리사 마노발`
+
 
 
 
