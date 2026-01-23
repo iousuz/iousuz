@@ -8,9 +8,10 @@
 
 </div>
   
-<a href="https://instagram.com/yena_165" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram" width="40"/>
+<a href="https://twitter.com/ToYen0309">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="30" />
 </a>
+
 
 
 
