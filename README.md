@@ -1,8 +1,9 @@
 `FANDOM: BLINK`
+<img width="594" height="420" alt="travel-removebg-preview (1)" src="https://github.com/user-attachments/assets/3b6ff976-e2f7-461e-af4b-e0564cf8c877" />
 
 
 
-<img width="490" height="510" alt="ktt-removebg-preview" src="https://github.com/user-attachments/assets/e476df7a-09a9-4d3b-8994-f298cdae4147" />
+
 
 
 
