@@ -1,5 +1,13 @@
-`FANDOM: BLINK`
-                                                                                                                                                                                      <img width="594" height="420" alt="travel-removebg-preview (1)" src="https://github.com/user-attachments/assets/3b6ff976-e2f7-461e-af4b-e0564cf8c877" />
+<div align="center">
+
+  `FANDOM: BLINK`
+                                                                                                                                                                                                                                                                  
+<div align="center">
+
+[ata](https://yento.atabook.org/) · [straw](https://jena11.straw.page/) · [tree](https://colormytree.me/2025/01KB9W3QDBN5K30RYZKZ8EBE9Q) 
+
+</div>
+
 
 
 
