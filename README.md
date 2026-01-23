@@ -7,6 +7,11 @@
 [ata](https://yento.atabook.org/) · [straw](https://jena11.straw.page/) · [tree](https://colormytree.me/2025/01KB9W3QDBN5K30RYZKZ8EBE9Q) 
 
 </div>
+  <div align="center">
+
+  <img src="https://cdn.simpleicons.org/instagram/yena_165" width="40"/>
+</a>
+
 
 
 
