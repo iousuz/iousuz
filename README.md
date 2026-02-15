@@ -9,7 +9,7 @@
                                                                                                                                                                                                                                                                   
 <div align="center">
 
-[strawpage](https://jena11.straw.page/) · [atabook](https://yento.atabook.org/)
+[sтʀᴀwᴘᴀԍᴇ](https://jena11.straw.page/) · [ᴀтᴀʙooκ](https://yento.atabook.org/)
 </div>
 
 
