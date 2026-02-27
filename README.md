@@ -34,7 +34,6 @@
   
 | `Profile` | `GitHub` | 
 |---|---|
-|<img src='https://github.com/user-attachments/assets/a39070cc-64ea-4fb0-9fba-5250f410eef8' width='30' height='30'>| [`Amew3`](https://github.com/Amew3) | 
 | <img src='https://github.com/user-attachments/assets/371dbf0b-6022-4cf3-b37f-101793f25609' width='30' height='30'> | [`B1-SP1Der`](https://github.com/B1-SP1Der) | 
 | <img src='https://github.com/user-attachments/assets/692bec59-4542-44b3-bb26-ef96fec9ef63' width='30' height='30'> | [`Aiveez`](https://github.com/Aiveez) | 
 | <img src='https://github.com/user-attachments/assets/c0527684-ff7a-4478-b684-65ab09356c43' width='30' height='30'> | [`K-ANT0`](https://github.com/K-ANT0) | 
