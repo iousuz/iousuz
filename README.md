@@ -1,7 +1,4 @@
-<!--chiziqni kodi-->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">
+
 
 <div align="center">
 <img rc="https://github.com/user-attachments/assets/eb629e5b-f6c7-4b32-8f2b-2790beaa5f9b" />
@@ -54,7 +51,10 @@
 | <img src='https://github.com/user-attachments/assets/96694c47-418f-4c93-ad01-8fe9bae99df4' width='30' height='30'> | [souIlove](https://github.com/souIlove) | 
 
 
-
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
 
 
 
